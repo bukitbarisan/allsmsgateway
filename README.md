@@ -1,2 +1,6 @@
 # allsmsgateway
-Sms Gateway from Twillo &amp; Nusa SMS
+Sms Gateway from Twillo, Nusa SMS &amp; Purindo SMS
+
+Twillo site : https://www.twilio.com
+Nusa site   : http://nusasms.com
+Purindo site: http://purindo.net
